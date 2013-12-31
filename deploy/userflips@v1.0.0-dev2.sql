@@ -4,9 +4,8 @@
 
 BEGIN;
 
-DROP VIEW IF EXISTS userflips;
 CREATE VIEW userflips AS
-SELECT f.id, u.nickname, u.fullname, u.twitter, f.body, f.timestamp
+SELECT f.id, u.nickname, u.fullname, f.body, f.timestamp
   FROM users u
   JOIN flips f ON u.nickname = f.nickname;
 

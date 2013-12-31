@@ -10,3 +10,4 @@ userflips [users flips] 2013-12-31T19:11:11Z Marge N. O’Vera <marge@example.co
 lists [users] 2013-12-31T19:28:05Z Marge N. O’Vera <marge@example.com> # Adds table for storing lists.
 hashtags [flips] 2013-12-31T19:30:13Z Marge N. O’Vera <marge@example.com> # Adds table for storing hashtags.
 @v1.0.0-dev2 2013-12-31T19:52:13Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev2.
+userflips [userflips@v1.0.0-dev2] 2013-12-31T19:54:04Z Marge N. O’Vera <marge@example.com># Adds userflips.twitter.
