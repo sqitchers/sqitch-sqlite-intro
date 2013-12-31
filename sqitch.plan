@@ -2,3 +2,4 @@
 %project=flipr
 %uri=https://github.com/theory/sqitch-sqlite-intro/
 
+users 2013-12-31T18:06:04Z Marge N. O’Vera <marge@example.com> # Creates table to track our users.
