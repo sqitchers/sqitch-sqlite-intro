@@ -6,3 +6,5 @@ users 2013-12-31T18:06:04Z Marge N. O’Vera <marge@example.com> # Creates table
 flips [users] 2013-12-31T19:01:40Z Marge N. O’Vera <marge@example.com> # Adds table for storing flips.
 userflips [users flips] 2013-12-31T19:11:11Z Marge N. O’Vera <marge@example.com> # Creates the userflips view.
 @v1.0.0-dev1 2013-12-31T19:13:02Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev1.
+
+lists [users] 2013-12-31T19:28:05Z Marge N. O’Vera <marge@example.com> # Adds table for storing lists.
