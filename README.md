@@ -3,8 +3,8 @@ Sqitch SQLite Intro
 
 A tutorial repository demonstrating how to manage an [SQLite](http://sqlite.org/)
 database with [Sqitch](http://sqitch.org/). The actual tutorial is
-[`sqitchtutorial-sqlite`](https://github.com/theory/sqitch/blob/master/lib/sqitchtutorial-sqlite.pod);
-this respository is actually the example repository described in the tutorial.
+[`sqitchtutorial-sqlite`](https://sqitch.org/docs/manual/sqitchtutorial-sqlite/);
+this repository is actually the example repository described in the tutorial.
 So you may want to look at the history here. Or clone this repository and run
 `sqitch` against various checkouts or just against the Git history.
 
